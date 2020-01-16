@@ -1,3 +1,9 @@
-# zol
+zol
+=====
 
-This is a test for using "rebar" to make a standard erlang/OTP program.
+An OTP application
+
+Build
+-----
+
+    $ rebar3 compile
